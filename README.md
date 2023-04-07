@@ -44,12 +44,10 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng-bhu2108](h
 
 **Technical Consultant, Jarvis (2022-Present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
-
 
 ## Education
 **Concordia  University (2016-2021)**, Master of Science in Chemistry
-- GPA: 4.0/4.0
+- GPA: 4.0/4.3
 
 
 ## Miscellaneous
