@@ -1,7 +1,7 @@
-# Bhupinder Metneja . Jarvis Consulting
+# Bhupinder Metneja
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
-
+My name is Bhupinder Metneja and I hold a double master’s degree – one in the field of Computational Chemistry and one in the field of Chemical and Bioprocess engineering. I have a very strong competence in programming, debugging, working with numerical algorithms requiring advanced linear
+algebra, and also in data analysis. As part of my MSc in Computational Chemistry at Concordia University, I worked on modifying an algorithm to explore potential energy surfaces of organic and biological molecules. The code for this algorithm makes extensive use of the Fortran and Python programming languages and thus I have great proficiency in both these languages. My research work included incorporating new algorithms in this code that would make it more efficient while simultaneously testing for any vulnerabilities that may arise due to the incorporation of such algorithms. I believe that my coding prowess can prove greatly beneficial in organizing and indexing data, performing statistical analyses of various kinds, and also for data visualization. I am skilled at using SQL, the Git command line interface and working with the Linux/UNIX environment. I have good hands-on experience working with bioinformatics tools as well. I come with five years of teaching experience at Concordia University whereby I would demonstrate lab experiments to undergraduate students. I was awarded the teaching assistant of the year (2020-2021) for doing an excellent job in this area.
 ## Skills
 
 **Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
+Project source code: [https://github.com/jarviscanada/jarvis_data_eng-bhu2108](https://github.com/jarviscanada/jarvis_data_eng-bhu2108)
 
 
 **Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
@@ -42,7 +42,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Technical Consultant, Jarvis (2022-Present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
 
 **Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
 
