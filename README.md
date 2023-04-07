@@ -48,17 +48,9 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng-bhu2108](h
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
-
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**Concordia  University (2016-2021)**, Master of Science in Chemistry
+- GPA: 4.0/4.0
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
-- Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+
